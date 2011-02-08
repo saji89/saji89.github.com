@@ -9,6 +9,7 @@ body{
 	background: #EBD8CE;
 	opacity:0.85;
 	border-style:black solid 3px;
+	font-family: 'Cuprum', arial, serif;
 }
 h2{
  text-shadow: #2c2c2c 1px 1px 5px;
@@ -16,6 +17,7 @@ h2{
 }
 #header
 {
+	/*background: url(../images/logo1.png) no-repeat fixed 20% 4% #F6F6F6;*/
 	background: #757886;
 	padding: 40px;
 
